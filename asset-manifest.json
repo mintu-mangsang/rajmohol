@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/rajmohol/static/css/main.106baaae.chunk.css",
+    "main.js": "/rajmohol/static/js/main.781d597d.chunk.js",
+    "main.js.map": "/rajmohol/static/js/main.781d597d.chunk.js.map",
+    "runtime-main.js": "/rajmohol/static/js/runtime-main.d938bb3f.js",
+    "runtime-main.js.map": "/rajmohol/static/js/runtime-main.d938bb3f.js.map",
+    "static/css/2.86846cc5.chunk.css": "/rajmohol/static/css/2.86846cc5.chunk.css",
+    "static/js/2.0f7039e0.chunk.js": "/rajmohol/static/js/2.0f7039e0.chunk.js",
+    "static/js/2.0f7039e0.chunk.js.map": "/rajmohol/static/js/2.0f7039e0.chunk.js.map",
+    "static/js/3.9f5ca2ee.chunk.js": "/rajmohol/static/js/3.9f5ca2ee.chunk.js",
+    "static/js/3.9f5ca2ee.chunk.js.map": "/rajmohol/static/js/3.9f5ca2ee.chunk.js.map",
+    "index.html": "/rajmohol/index.html",
+    "static/css/2.86846cc5.chunk.css.map": "/rajmohol/static/css/2.86846cc5.chunk.css.map",
+    "static/css/main.106baaae.chunk.css.map": "/rajmohol/static/css/main.106baaae.chunk.css.map",
+    "static/js/2.0f7039e0.chunk.js.LICENSE.txt": "/rajmohol/static/js/2.0f7039e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d938bb3f.js",
+    "static/css/2.86846cc5.chunk.css",
+    "static/js/2.0f7039e0.chunk.js",
+    "static/css/main.106baaae.chunk.css",
+    "static/js/main.781d597d.chunk.js"
+  ]
+}
